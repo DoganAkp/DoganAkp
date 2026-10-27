@@ -24,5 +24,5 @@ Second-year **BSc (Hons) Computer Science student at Brunel University London** 
 
 ### Professional Links
 
-* 💼 **LinkedIn:** [linkedin.com/in/dogan-akpinar-dag](https://linkedin.com/in/dogan-akpinar-dag)
+* 💼 **LinkedIn:** [linkedin.com/in/dogan-akpinar-dag]
 * 📧 **Email:** [dakpinardag@gmail.com](mailto:dakpinardag@gmail.com)
