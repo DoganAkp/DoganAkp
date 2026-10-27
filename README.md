@@ -16,9 +16,9 @@ Second-year **BSc (Hons) Computer Science student at Brunel University London** 
 
 ### Featured Projects
 
-* **🥙 [Restaurant Management System](https://github.com/DoganAkp/kebab-firebase):** Firebase web application featuring real-time sync, an immutable sales ledger and Role-Based Access Control enforced by server-side security rules.
+* **🥙 [Restaurant Management System](https://github.com/DoganAkp/kebab-firebase):** Firebase web application featuring real-time sync, append-only sales records (void-only, no deletes) and Role-Based Access Control, all enforced by server-side security rules.
 * **🧪 [Sift — Ingredient Analysis Extension](https://github.com/DoganAkp/sift-extension):** Browser extension using DOM parsing and the Google Gemini API to assess skincare ingredient lists for different skin profiles.
-* **🖌 [Webpage UX Utilities](https://github.com/DoganAkp):** Responsive extensions enabling client-side text highlighting and draggable screen magnification.
+* **🖌 [Markup — Highlighter & Magnifier Extension](https://github.com/DoganAkp/markup-extension):** Browser extension for highlighting and underlining webpage text, saved per page and restored on reload, plus a draggable magnifying glass.
 
 ---
 
